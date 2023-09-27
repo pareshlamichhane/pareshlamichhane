@@ -1,17 +1,9 @@
-- 👋 Hi, I’m @pareshlamichhane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ## Hi 👋, I'm a software engineer working in Bharatpur, Nepal
+- ## Hi 👋, I'm Paresh Lamichhane from Nepal.
 
 <p align="left">
   <a href="https://pareshlamichhane.com.np">
     Website
   </a>
-  <!-- <a href="https://stackoverflow.com/users/6037636/rajan-lama">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6037636?color=orange&label=reputation&logo=stackoverflow">
-  </a> -->
   <a href="https://github.com/pareshlamichhane/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pareshlamichhane?color=green&logo=github">
   </a>
@@ -23,17 +15,17 @@
 
 #### Now
 
-- :fire: Interested in and Enterprise Solution and Application Software Engineering;
-- :calendar: Looking for contributing to open source projects
+- 👀 I’m interested in Computer Engineering;
+- 💞️ I’m looking to collaborate on open source projects
 
 #### Bio
 
 <!-- - 🏢 I'm currently working at **BEGINNING STUDIOS PVT. LTD.** -->
 - ⚙️ I use daily: `.php`, `.js`, `.jsx`, `.html`, `.css`, `.sass`, `.ts`,`.java`
 <!-- - 🌍 I'm mostly active within the **WordPress Community** -->
-- 🌱 Learning all about **WordPress, React JS, ES6, Flutter, C, C++, C#, Java, Python,DevOps, PHP**,
+- 🌱 I’m currently learning **WordPress, React JS, ES6, Flutter, C, C++, C#, Java, Python,DevOps, PHP**,
 - 💬 Ping me about **WordPress 6**, **React**, **ES6**,**SASS**, **Java**,  **Php**,
-<!-- - 📫 Reach me: [twitter.com/pareshlamichhane](https://twitter.com/pareshlamichhane) -->
+<!-- - 📫 How to reach me : [twitter.com/pareshlamichhane](https://twitter.com/pareshlamichhane) -->
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
 
 #### My Current Stack
