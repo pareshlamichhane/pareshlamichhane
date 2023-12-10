@@ -16,7 +16,7 @@
 #### Now
 
 - 👀 I’m interested in Computer Engineering;
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on my GreetingsCard Project
 
 #### Bio
 
