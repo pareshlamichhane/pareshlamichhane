@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en&layout=compact" alt="pareshlamichhane" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
