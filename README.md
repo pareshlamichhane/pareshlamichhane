@@ -8,9 +8,8 @@
   <a href="https://github.com/pareshlamichhane/">
     <img src="https://komarev.com/ghpvc/?username=pareshlamichhane" alt="visitors" />
   </a>
-<a href="https://pareshlamichhane.com.np">
- <p>   Website </p>
-  </a>
+
+ <p><a href="https://pareshlamichhane.com.np">   Website </a></p>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pareshlamichhane" alt="pareshlamichhane" /></a> </p>
