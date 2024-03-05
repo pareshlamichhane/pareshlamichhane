@@ -16,12 +16,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pareshlamichhane" alt="pareshlamichhane" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en&layout=compact" alt="pareshlamichhane" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
-
 #### Now
 
 - 👀 I’m interested in Computer Engineering;
@@ -46,10 +40,11 @@
 
 <b>⚡ Github Stats</b>
 
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshlamichhane&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en&layout=compact" alt="pareshlamichhane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
