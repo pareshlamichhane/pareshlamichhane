@@ -40,9 +40,9 @@
 <b>⚡ Github Stats</b>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="mailto:pareshlamichhane@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
 
