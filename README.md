@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Paresh Lamichhane</h1>
 <h3 align="center">A technology enthusiast, freelancer, software developer, and computer hobbyist from Nepal.</h3>
 
-<p align="left">
-  <a href="https://pareshlamichhane.com.np">
-    Website
-  </a>
-  <a href="https://github.com/pareshlamichhane/?tab=followers">
-    <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/pareshlamichhane?color=green&logo=github">
+<p>
+    <a href="https://github.com/pareshlamichhane/?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pareshlamichhane?color=green&logo=github">
   </a>
   <a href="https://github.com/pareshlamichhane/">
-    <img align="right" src="https://komarev.com/ghpvc/?username=pareshlamichhane" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=pareshlamichhane" alt="visitors" />
   </a>
-
+<a href="https://pareshlamichhane.com.np">
+ <p>   Website </p>
+  </a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pareshlamichhane" alt="pareshlamichhane" /></a> </p>
@@ -41,9 +40,9 @@
 <b>⚡ Github Stats</b>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en&layout=compact" alt="pareshlamichhane" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
