@@ -1,4 +1,5 @@
-- ## Hi 👋, I'm Paresh Lamichhane from Nepal.
+<h1 align="center">Hi 👋, I'm Paresh Lamichhane</h1>
+<h3 align="center">A technology enthusiast, freelancer, software developer, and computer hobbyist from Nepal.</h3>
 
 <p align="left">
   <a href="https://pareshlamichhane.com.np">
@@ -12,6 +13,14 @@
   </a>
 
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pareshlamichhane" alt="pareshlamichhane" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pareshlamichhane&show_icons=true&locale=en&layout=compact" alt="pareshlamichhane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshlamichhane&show_icons=true&locale=en" alt="pareshlamichhane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshlamichhane&" alt="pareshlamichhane" /></p>
 
 #### Now
 
@@ -42,9 +51,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshlamichhane&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<!-- #### Connect With Me -->
-
-<!-- <p left="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://profile.wordpress.org/pareshlamichhane">
   <img src="https://img.shields.io/badge/wordpress-%23000000.svg?&style=for-the-badge&logo=wordpress&logoColor=white" height=25>
 </a>
@@ -61,8 +69,7 @@
 <a href="mailto:pareshlamichhane@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-</p> -->
-
+</p>
 
 <!---
 pareshlamichhane/pareshlamichhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
